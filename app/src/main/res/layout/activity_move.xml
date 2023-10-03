@@ -8,21 +8,10 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-
-
-    <Button
-        android:id="@+id/btn_switch"
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/pindah_activty"
+        android:gravity="center"
+        android:text="@string/selamat_datang"
         />
-
-    <Button
-        android:id="@+id/btn_data"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/pindah_activity_dengan_data"
-        />
-
-
 </LinearLayout>

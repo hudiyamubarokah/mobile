@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">hud_kalkulator</string>
     <string name="result">result</string>
+    <string name="ini_layout_move_dengan_data">ini_layout_move_dengan_data</string>
+    <string name="pindah_activty">pindah_activty</string>
+    <string name="pindah_activity_dengan_data">pindah_activity_dengan_data</string>
+    <string name="selamat_datang">selamat_datang</string>
 </resources>
